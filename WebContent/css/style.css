@@ -1,0 +1,36 @@
+body {
+	padding-top: 56px;
+}
+
+.icon {
+	border-radius: 20%;
+	width: 60px;
+	height: 60px;
+	margin-right: 5px;
+}
+
+.headline {
+	font-family: 'Imbue', serif;
+	font-size: 38px;
+}
+
+.footerContainer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	opacity: 0.8;
+}
+
+.hide {
+	display: none;
+}
+
+.newsFeed {
+	width: 80%;
+	margin: auto;
+}
+
+.contactPage {
+	width: 80%;
+	margin: auto;
+}
